@@ -21,7 +21,7 @@ Pipeworks Editor is a versatile application designed to assist you in color visu
 - A slider controls the number of different colors, grouping them into RGB segments.
 - Colors within each segment are evenly distributed, simulating smooth transitions.
 - The output is in the format LP=KE? for Red, LO=KE? for Green, and LQ=KE? for Blue, without simulating transparency (LR=KA?).
-- Modular output transforms =KE? into =KA? when there is only one value, saving space while preserving the desired output.
+- Modular output transforms =KE? into =KA? when there is only one value. Will also combine repeated values at the end to save space, while keeping the desired output.
 
 # Feature 3: Improved Mip Map Generator
 
