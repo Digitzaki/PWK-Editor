@@ -13,7 +13,7 @@ Pipeworks Editor is a versatile application designed to assist you in color visu
 - Three sliders for Red, Green, and Blue allow precise control with values rounded to the second decimal.
 - LP=KA? corresponds to Red, LO=KA? corresponds to Green, and LQ=KA? corresponds to Blue, making it easy to understand and edit.
 - The Alpha slider (LR=KA?) ranges from 1 to 5, adjusting the transparency of the color.
-- Alternate mode button where RGB affecting alpha is disabled and the alpha slider affects alpha (transparency) ONLY
+- Alternate mode button where RGB affecting alpha is disabled and the alpha slider affects alpha (transparency) only. For effects where the colors dont seem to change transparency.
 - As the color values approach 0, the color becomes more transparent.
 
 # Feature 2: Gradient Visualizer
