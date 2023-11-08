@@ -25,8 +25,8 @@ def open_generator():
 
 # Create the main window
 root = tk.Tk()
-root.title("PWKs Editor Version 1.2")
-root.geometry("300x200")
+root.title("PWKs Editor Version 1.21")
+root.geometry("320x200")
 
 # Create and configure the buttons
 color_button = tk.Button(root, text="Color Visualizer", command=open_color_visualizer)
